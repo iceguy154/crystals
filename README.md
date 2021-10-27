@@ -32,5 +32,5 @@ Infrastructure
   - Check out Linode and compare to
   - AWS micro instance
   - Check out other cloud services  
-  - register domain name www.shopmarizz.com
+  - register domain name www.shopmarizz.com or www.marizzcrystals.com
 
